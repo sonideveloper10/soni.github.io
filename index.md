@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+![My profile picture](/assets/img/profile.jpg)
 
 # Hi, I'm **Your Name** 👋
 I build things for the web and love clean, fast interfaces.
