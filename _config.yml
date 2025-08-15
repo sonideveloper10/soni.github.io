@@ -1,5 +1,5 @@
-title: "Your Name"
-description: "Developer • Designer • Problem Solver"
+title: "Soni"
+description: "Developer"
 # Pick any official pages theme here (swap 'cayman' with 'minimal', 'slate', 'hacker', 'architect', etc.)
 remote_theme: pages-themes/cayman@v0.2.0
 
@@ -12,6 +12,6 @@ plugins:
 timezone: Asia/Karachi
 author: Your Name
 social_links:
-  github: YOUR-USERNAME
+  github: sonideveloper10
   linkedin: your-linkedin-handle
   twitter: your-twitter-handle
