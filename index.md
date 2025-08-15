@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
-![My profile picture](/assets/img/profile.jpg)
-<img src="/assets/img/profile.jpg" alt="My profile" width="200" style="border-radius:50%">
+![My profile picture](/assets/img/IMG_0199.jpg)
+<img src="/assets/img/IMG_0199.jpg" alt="My profile" width="200" style="border-radius:50%">
 
 
 # Hi, I'm **Your Name** 👋
