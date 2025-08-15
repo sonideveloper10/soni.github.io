@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 ![My profile picture](/assets/img/profile.jpg)
+<img src="/assets/img/profile.jpg" alt="My profile" width="200" style="border-radius:50%">
+
 
 # Hi, I'm **Your Name** 👋
 I build things for the web and love clean, fast interfaces.
