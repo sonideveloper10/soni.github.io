@@ -1,0 +1,17 @@
+title: "Your Name"
+description: "Developer • Designer • Problem Solver"
+# Pick any official pages theme here (swap 'cayman' with 'minimal', 'slate', 'hacker', 'architect', etc.)
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme  # required for remote_theme
+  - jekyll-sitemap       # optional but nice for SEO
+  - jekyll-feed          # optional RSS for future blog posts
+
+# Site-wide options
+timezone: Asia/Karachi
+author: Your Name
+social_links:
+  github: YOUR-USERNAME
+  linkedin: your-linkedin-handle
+  twitter: your-twitter-handle
